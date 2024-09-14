@@ -1,3 +1,4 @@
+[**中文简体**](./README.zh-CN.md)
 # AlgebraTools
 The least common factor, the least common multiple and the number of primes in a certain range are solved.
 
